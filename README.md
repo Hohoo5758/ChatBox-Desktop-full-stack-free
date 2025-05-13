@@ -1,5 +1,5 @@
-# ChatBox-Desktop-full-stack-free
-# Your Ultimate AI on the Desktop
+# ChatBox-Desktop-full-stack-free 
+🚀Your Ultimate AI on the Desktop🚀
 
 ## Installation
 To install **Trading-View**, follow these steps:
