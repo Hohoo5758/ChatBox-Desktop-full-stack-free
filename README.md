@@ -25,3 +25,21 @@ Welcome to the **Chatbox** repository! This repository provides a cracked full v
 - Suitable for team collaboration, supporting the sharing of OpenAI API resources within the team. View [tutorial](./team-sharing/README.md)
 - Providing installation packages, no deployment required
 - Free and open source
+
+## 🔑 Keywords
+
+• ChatBox Desktop  
+
+• ChatBox Full Stack  
+
+• ChatBox Free  
+
+• ChatBox Real-time Integration  
+
+• ChatBox User Interface  
+
+• ChatBox API   
+
+• ChatBox
+
+
